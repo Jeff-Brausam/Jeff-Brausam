@@ -1,7 +1,7 @@
 Hi, I’m @Jeff-Brausam.
 
-I am a frontend developer with interest in web technologies.
+I am a frontend developer who loves open source, and learning about new web technologies.
 
-Please get in touch if you are interested in working together!
+Get in touch:
 
 https://www.jeffbrausam.com/
