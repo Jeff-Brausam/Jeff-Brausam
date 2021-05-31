@@ -1,3 +1,3 @@
-Hi, I’m @Jeff-Brausam.
+Hi, I’m Jeff,
 
-I am a frontend developer who loves open source, and learning about new web technologies.
+I am a frontend developer who has a keen interest learning about various different web technologies.
